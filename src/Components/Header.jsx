@@ -2,8 +2,8 @@ import React from "react";
 
 function Header() {
     return (
-    <header className="header">
-        <h1 className="h1">
+    <header>
+        <h1>
             Keeper App
         </h1>
     </header>

@@ -3,10 +3,10 @@ import React from "react";
 function Note() {
     return (
         <div className="note">
-            <h1 className="h1">
+            <h1>
                 Your title
             </h1>
-            <p className="p">
+            <p>
                 Your content
             </p>
         </div>

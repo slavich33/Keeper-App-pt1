@@ -6,8 +6,8 @@ const currentTime = date.getFullYear();
 function Footer() {
     return (
 
-        <footer className="footer">
-            <p className="footer p">
+        <footer>
+            <p>
                 Copyright ⓒ {currentTime}
             </p>
         </footer>
